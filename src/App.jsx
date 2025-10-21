@@ -20,7 +20,7 @@ function App() {
       className='d-flex flex-column align-items-center justify-content-center'
       >
         <h1 style={{color: dark ? "white" : "black"}}>Hello</h1>
-        <button className='btn' style={{color: dark ? "white" : "black"}} onClick={handletheme}>Change</button>
+        <button className='btn' style={{color: dark ? "white" : "black"}} onClick={handletheme}>Click Here</button>
       </div>
     </>
   )
